@@ -1,0 +1,15 @@
+AmazonUITests.UITests.ShoppingCartTests.ShoppingCartTest
+AmazonUITests.UITests.ShoppingCartTests
+ShoppingCartTest
+ShoppingCartTest
+  Total
+  Expected string length 2 but was 5. Strings differ at index 2.
+  Expected: "75"
+  But was:  "75.00"
+  -------------^
+
+   at AmazonUITests.Pages.ShoppingCartPage.ShoppingCartPage.AssertSubtotal(String priceString, String quantityString) in C:\Users\boyko\Documents\Visual Studio 2017\Projects\EndavaTest\AmazonUITests\Pages\ShoppingCartPage\ShoppingCartPageAsserter.cs:line 56
+   at AmazonUITests.Pages.ShoppingCartPage.ShoppingCartPage.AssertShoppingCart(List`1 data) in C:\Users\boyko\Documents\Visual Studio 2017\Projects\EndavaTest\AmazonUITests\Pages\ShoppingCartPage\ShoppingCartPageAsserter.cs:line 27
+   at AmazonUITests.UITests.ShoppingCartTests.ShoppingCartTest() in C:\Users\boyko\Documents\Visual Studio 2017\Projects\EndavaTest\AmazonUITests\UITests\ShoppingCartTests.cs:line 81
+
+C:\Users\boyko\Documents\Visual Studio 2017\Projects\AmazonTest\AmazonUITests\bin\Debug
