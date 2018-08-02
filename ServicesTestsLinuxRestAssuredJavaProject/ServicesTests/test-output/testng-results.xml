@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33279" started-at="2018-08-02T12:40:49Z" finished-at="2018-08-02T12:41:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33279" started-at="2018-08-02T12:40:49Z" finished-at="2018-08-02T12:41:23Z">
+      <class name="telco.TestCases.TelcoGetRequests">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="SetUp" is-config="true" duration-ms="18326" started-at="2018-08-02T12:40:49Z" finished-at="2018-08-02T12:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="initialize" is-config="true" duration-ms="817" started-at="2018-08-02T12:41:08Z" finished-at="2018-08-02T12:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="getCreateNetworkForm()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="getCreateNetworkForm" duration-ms="3532" started-at="2018-08-02T12:41:09Z" finished-at="2018-08-02T12:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCreateNetworkForm -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="initialize" is-config="true" duration-ms="1" started-at="2018-08-02T12:41:12Z" finished-at="2018-08-02T12:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="getCreateNetworkForm_InvalidUrl()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="getCreateNetworkForm_InvalidUrl" duration-ms="286" started-at="2018-08-02T12:41:12Z" finished-at="2018-08-02T12:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCreateNetworkForm_InvalidUrl -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="initialize" is-config="true" duration-ms="0" started-at="2018-08-02T12:41:12Z" finished-at="2018-08-02T12:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="getNetworksPage()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="getNetworksPage" duration-ms="1134" started-at="2018-08-02T12:41:12Z" finished-at="2018-08-02T12:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNetworksPage -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="initialize" is-config="true" duration-ms="2" started-at="2018-08-02T12:41:14Z" finished-at="2018-08-02T12:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="getNetworksPage_InvalidUrl_ReturnError()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="getNetworksPage_InvalidUrl_ReturnError" duration-ms="288" started-at="2018-08-02T12:41:14Z" finished-at="2018-08-02T12:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNetworksPage_InvalidUrl_ReturnError -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="initialize" is-config="true" duration-ms="1" started-at="2018-08-02T12:41:14Z" finished-at="2018-08-02T12:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="getOpenAdminProject()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="getOpenAdminProject" duration-ms="632" started-at="2018-08-02T12:41:14Z" finished-at="2018-08-02T12:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOpenAdminProject -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="initialize" is-config="true" duration-ms="1" started-at="2018-08-02T12:41:15Z" finished-at="2018-08-02T12:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="getOpenNonExistenNetworkDetail_OpenNetworksPage()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="getOpenNonExistenNetworkDetail_OpenNetworksPage" duration-ms="1192" started-at="2018-08-02T12:41:15Z" finished-at="2018-08-02T12:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOpenNonExistenNetworkDetail_OpenNetworksPage -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="initialize" is-config="true" duration-ms="14" started-at="2018-08-02T12:41:16Z" finished-at="2018-08-02T12:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="getOpenNonExistenNetworkPortForm_OpenNetworksPage()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="getOpenNonExistenNetworkPortForm_OpenNetworksPage" duration-ms="1139" started-at="2018-08-02T12:41:16Z" finished-at="2018-08-02T12:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOpenNonExistenNetworkPortForm_OpenNetworksPage -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="initialize" is-config="true" duration-ms="1" started-at="2018-08-02T12:41:17Z" finished-at="2018-08-02T12:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="getOpenNonExistenNetworkSubnetsForm_OpenNetworksPage()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="getOpenNonExistenNetworkSubnetsForm_OpenNetworksPage" duration-ms="1994" started-at="2018-08-02T12:41:17Z" finished-at="2018-08-02T12:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOpenNonExistenNetworkSubnetsForm_OpenNetworksPage -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="initialize" is-config="true" duration-ms="2" started-at="2018-08-02T12:41:19Z" finished-at="2018-08-02T12:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="getOpenNonExistenProjectDetail_OpenProjectsPage()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="getOpenNonExistenProjectDetail_OpenProjectsPage" duration-ms="1196" started-at="2018-08-02T12:41:19Z" finished-at="2018-08-02T12:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOpenNonExistenProjectDetail_OpenProjectsPage -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="initialize" is-config="true" duration-ms="1" started-at="2018-08-02T12:41:20Z" finished-at="2018-08-02T12:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="getOpenTestNetwork()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="getOpenTestNetwork" duration-ms="918" started-at="2018-08-02T12:41:20Z" finished-at="2018-08-02T12:41:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOpenTestNetwork -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="initialize" is-config="true" duration-ms="1" started-at="2018-08-02T12:41:21Z" finished-at="2018-08-02T12:41:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="getOpenTestNetworkPortForm()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="getOpenTestNetworkPortForm" duration-ms="936" started-at="2018-08-02T12:41:21Z" finished-at="2018-08-02T12:41:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOpenTestNetworkPortForm -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="initialize" is-config="true" duration-ms="1" started-at="2018-08-02T12:41:22Z" finished-at="2018-08-02T12:41:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="getOpenTestNetworkSubnetsForm()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="getOpenTestNetworkSubnetsForm" duration-ms="711" started-at="2018-08-02T12:41:22Z" finished-at="2018-08-02T12:41:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOpenTestNetworkSubnetsForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:telco.TestCases.TelcoGetRequests@55d56113]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-08-02T12:41:23Z" finished-at="2018-08-02T12:41:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- telco.TestCases.TelcoGetRequests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
