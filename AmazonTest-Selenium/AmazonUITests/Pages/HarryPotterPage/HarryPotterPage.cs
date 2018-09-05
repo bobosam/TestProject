@@ -36,6 +36,7 @@ namespace AmazonUITests.Pages.HarryPotterPage
             this.SeeAllDepartments.Click();
             this.Category(category).Click();
 
+            Thread.Sleep(1000);
             this.Type(this.LowPrice, minPrice);
             this.Type(this.MaxPrice, maxPrice);
             this.PriceSubmit.Submit();

@@ -2,14 +2,20 @@ AmazonUITests.UITests.ShoppingCartTests.ShoppingCartTest
 AmazonUITests.UITests.ShoppingCartTests
 ShoppingCartTest
 ShoppingCartTest
-  Total
-  Expected string length 2 but was 5. Strings differ at index 2.
-  Expected: "75"
-  But was:  "75.00"
-  -------------^
-
-   at AmazonUITests.Pages.ShoppingCartPage.ShoppingCartPage.AssertSubtotal(String priceString, String quantityString) in C:\Users\boyko\Documents\Visual Studio 2017\Projects\EndavaTest\AmazonUITests\Pages\ShoppingCartPage\ShoppingCartPageAsserter.cs:line 56
-   at AmazonUITests.Pages.ShoppingCartPage.ShoppingCartPage.AssertShoppingCart(List`1 data) in C:\Users\boyko\Documents\Visual Studio 2017\Projects\EndavaTest\AmazonUITests\Pages\ShoppingCartPage\ShoppingCartPageAsserter.cs:line 27
-   at AmazonUITests.UITests.ShoppingCartTests.ShoppingCartTest() in C:\Users\boyko\Documents\Visual Studio 2017\Projects\EndavaTest\AmazonUITests\UITests\ShoppingCartTests.cs:line 81
-
-C:\Users\boyko\Documents\Visual Studio 2017\Projects\AmazonTest\AmazonUITests\bin\Debug
+System.InvalidOperationException : chrome not reachable
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.17134 x86_64) (100)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at BaseUITests.BasePage.<>c__DisplayClass10_0.<FindElementBy>b__0(IWebDriver drv) in C:\Users\boyko.andonov\Desktop\TestProject\AmazonTest-Selenium\BaseUITests\BasePage.cs:line 65
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at BaseUITests.BasePage.FindElementBy(By by) in C:\Users\boyko.andonov\Desktop\TestProject\AmazonTest-Selenium\BaseUITests\BasePage.cs:line 65
+   at AmazonUITests.Pages.HarryPotterPage.HarryPotterPage.get_FirstResult() in C:\Users\boyko.andonov\Desktop\TestProject\AmazonTest-Selenium\AmazonUITests\Pages\HarryPotterPage\HarryPotterPageMap.cs:line 85
+   at AmazonUITests.Pages.HarryPotterPage.HarryPotterPage.FilteringItems(String category, String minPrice, String maxPrice) in C:\Users\boyko.andonov\Desktop\TestProject\AmazonTest-Selenium\AmazonUITests\Pages\HarryPotterPage\HarryPotterPage.cs:line 45
+   at AmazonUITests.UITests.ShoppingCartTests.ShoppingCartTest() in C:\Users\boyko.andonov\Desktop\TestProject\AmazonTest-Selenium\AmazonUITests\UITests\ShoppingCartTests.cs:line 73
+C:\Users\boyko.andonov\Desktop\TestProject\AmazonTest-Selenium\AmazonUITests\bin\Debug

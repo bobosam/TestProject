@@ -82,7 +82,7 @@ namespace AmazonUITests.Pages.HarryPotterPage
         {
             get
             {
-                return this.FindElementBy(By.XPath("//*[@id='result_0']/div/div[3]/div/a/h2"));
+                return this.FindElementBy(By.XPath("//*[@id='result_0']/div/div[4]/div/a/h2"));
             }
         }
 
