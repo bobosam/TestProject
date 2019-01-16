@@ -7,6 +7,7 @@
 namespace AmazonUITests.Pages.FirstProductPage
 {
     using System.Collections.Generic;
+    using System.Threading;
 
     using BaseUITests;
     using OpenQA.Selenium;
@@ -41,6 +42,7 @@ namespace AmazonUITests.Pages.FirstProductPage
         /// <returns>List purchased data.</returns>
         public List<string> GetProductData()
         {
+            Thread.Sleep(3000);
             var productData = new List<string>();
 
             string title = this.ProductTitle.Text.Trim();

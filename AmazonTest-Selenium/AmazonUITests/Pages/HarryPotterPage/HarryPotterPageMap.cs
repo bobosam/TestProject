@@ -34,7 +34,7 @@ namespace AmazonUITests.Pages.HarryPotterPage
         {
             get
             {
-                return this.FindElementBy(By.CssSelector("#low-price"));
+                return this.FindElementBy(By.Id("low-price"));
             }
         }
 

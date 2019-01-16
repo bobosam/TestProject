@@ -33,16 +33,17 @@ namespace AmazonUITests.Pages.HarryPotterPage
         /// <param name="maxPrice">Input max price.</param>
         public void FilteringItems(string category, string minPrice, string maxPrice)
         {
+            Thread.Sleep(2000);
             this.SeeAllDepartments.Click();
             this.Category(category).Click();
 
-            Thread.Sleep(1000);
+            Thread.Sleep(2000);
             this.Type(this.LowPrice, minPrice);
             this.Type(this.MaxPrice, maxPrice);
             this.PriceSubmit.Submit();
 
             this.Age14Years.Click();
-            Thread.Sleep(1000);
+            Thread.Sleep(3000);
             this.FirstResult.Click();
         }
     }
