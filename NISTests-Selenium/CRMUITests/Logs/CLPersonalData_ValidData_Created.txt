@@ -1,0 +1,1 @@
+CLPersonalData_ValidData_Created        C:\Users\boyko.andonov\Source\Workspaces\ProfiERP.Tests\ERP tests\ProfiCredit.ERP.Tests\ProfiCreditNISTests\TestResults\Deploy_boyko.andonov 2017-09-12 16_54_04\In            Failed

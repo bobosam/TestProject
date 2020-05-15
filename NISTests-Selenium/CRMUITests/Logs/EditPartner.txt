@@ -1,0 +1,1 @@
+EditPartner        C:\Users\boyko.andonov\Source\Workspaces\ProfiERP.Tests\ERP tests\ProfiCredit.ERP.Tests\ProfiCreditNISTests\TestResults\Deploy_boyko.andonov 2017-10-05 12_23_30\In            Failed

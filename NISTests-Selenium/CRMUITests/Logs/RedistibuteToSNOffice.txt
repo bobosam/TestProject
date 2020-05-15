@@ -1,0 +1,1 @@
+RedistibuteToSNOffice        C:\Users\boyko.andonov\Source\Workspaces\ProfiERP.Tests\ERP tests\ProfiCredit.ERP.Tests\ProfiCreditNISTests\TestResults\Deploy_boyko.andonov 2017-10-09 18_37_04\In            Failed

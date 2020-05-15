@@ -1,0 +1,1 @@
+PersonalData_InvalidCardDate_ShowError        C:\Users\boyko.andonov\Source\Workspaces\ProfiERP.Tests\ERP tests\ProfiCredit.ERP.Tests\ProfiCreditNISTests\TestResults\Deploy_boyko.andonov 2017-10-03 18_01_50\In            Failed

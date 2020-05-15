@@ -1,0 +1,1 @@
+AddNewBusinessSector        C:\Users\boyko.andonov\Source\Workspaces\ProfiERP.Tests\ERP tests\ProfiCredit.ERP.Tests\ProfiCreditNISTests\TestResults\Deploy_boyko.andonov 2017-11-14 16_32_09\In            Failed

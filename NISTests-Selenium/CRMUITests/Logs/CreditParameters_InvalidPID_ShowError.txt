@@ -1,0 +1,1 @@
+CreditParameters_InvalidPID_ShowError        C:\Users\boyko.andonov\Source\Workspaces\ProfiERP.Tests\ERP tests\ProfiCredit.ERP.Tests\ProfiCreditNISTests\TestResults\Deploy_boyko.andonov 2017-09-29 16_55_18\In            Failed

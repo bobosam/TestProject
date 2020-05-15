@@ -1,0 +1,1 @@
+RejectManualOffer        C:\Users\boyko.andonov\Source\Workspaces\ProfiERP.Tests\ERP tests\ProfiCredit.ERP.Tests\ProfiCreditNISTests\TestResults\Deploy_boyko.andonov 2017-10-10 12_46_43\In            Failed

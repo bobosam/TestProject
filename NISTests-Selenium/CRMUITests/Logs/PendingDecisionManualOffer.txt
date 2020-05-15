@@ -1,0 +1,1 @@
+PendingDecisionManualOffer        C:\Users\boyko.andonov\Source\Workspaces\ProfiERP.Tests\ERP tests\ProfiCredit.ERP.Tests\ProfiCreditNISTests\TestResults\Deploy_boyko.andonov 2017-09-14 18_13_26\In            Failed

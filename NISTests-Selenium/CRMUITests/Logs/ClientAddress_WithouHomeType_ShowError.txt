@@ -1,0 +1,1 @@
+ClientAddress_WithouHomeType_ShowError        C:\Users\boyko.andonov\Source\Workspaces\ProfiERP.Tests\ERP tests\ProfiCredit.ERP.Tests\ProfiCreditNISTests\TestResults\Deploy_boyko.andonov 2017-11-14 16_46_19\In            Failed
